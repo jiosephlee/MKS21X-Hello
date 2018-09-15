@@ -1,1 +1,5 @@
-System.out.println ('Hello my name is Joseph Lee, what up!')
+public class Hello{
+    public static void main(String[] args){
+        System.out.println("Hello my name is Joseph, what\'s up!");
+    }
+}
